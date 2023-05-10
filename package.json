@@ -8,8 +8,8 @@
     "private": false,
     "type": "module",
     "bin": {
-        "create-react-ts-lib": "index.js",
-        "crtl": "index.js"
+        "create-react-ts-lib": "./index.js",
+        "crtl": "./index.js"
     },
     "files": [
         "dist"
