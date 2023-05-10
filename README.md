@@ -24,4 +24,4 @@ create-react-ts-lib projectName
 crtl projectName
 ```
 
-then `cd projectName` and install dependenciesName
+then `cd projectName` and install dependencies

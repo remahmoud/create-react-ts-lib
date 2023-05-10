@@ -37,5 +37,21 @@
         "kolorist": "^1.8.0",
         "ora": "^6.3.0",
         "prompts": "^2.4.2"
-    }
+    },
+    "keywords": [
+        "react",
+        "component",
+        "react-component",
+        "react-lib",
+        "react-library",
+        "react-ts",
+        "typescript",
+        "rollup",
+        "react-typescript"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/remahmoud/create-react-ts-lib"
+    },
+    "homepage": "https://github.com/remahmoud/create-react-ts-lib#readme"
 }
