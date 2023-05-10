@@ -1,6 +1,6 @@
 {
     "name": "create-react-ts-lib",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "cli tool to create react component library with rollup and typescript",
     "main": "index.js",
     "author": "Mahmoud Ibrahiam",
